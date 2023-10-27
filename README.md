@@ -1,2 +1,2 @@
-# TP-Rotiser-a
-Pagina web de una rotisería.
+# TP-Rotiseria
+Pagina Web.
