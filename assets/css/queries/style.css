@@ -226,7 +226,7 @@
         display: grid;
         box-sizing:border-box;
         box-sizing:border-box;
-        background-image: url(/assets/media/images/hamburguesa-queso-perfecta-verduras-sobre-mesa-madera-fondo-negro-ai-generativo.jpg);
+        background-image: url(../assets/media/images/hamburguesa-queso-perfecta-verduras-sobre-mesa-madera-fondo-negro-ai-generativo.jpg);
         background-size:cover;
         background-repeat: no-repeat;
     }
