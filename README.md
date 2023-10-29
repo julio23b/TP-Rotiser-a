@@ -1,4 +1,4 @@
-# Página Web de Rotisería "nombre"
+# Página Web de Rotisería "Los ComeNunca"
 Esta página web es una plataforma en línea para nuestra rotisería, donde los clientes pueden explorar nuestro menú, hacer pedidos y obtener información sobre nuestra empresa.
 
 ## Cómo Usar
@@ -13,4 +13,4 @@ Esta página web es una plataforma en línea para nuestra rotisería, donde los 
   - JavaScript
 
 ## Contacto
-Si tienes alguna pregunta o sugerencia, no dudes en contactarnos en [correo@rotiseria.com](mailto:correo@rotiseria.com).
+Si tienes alguna pregunta o sugerencia, no dudes en contactarnos en [correo@rotiseria.com](mailto:correo@rotiserialoscomenunca.com).
