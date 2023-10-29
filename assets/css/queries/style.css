@@ -73,7 +73,7 @@
         flex-direction: column;
         flex-wrap: wrap;
         text-align: center;
-        background-image: url(..//images/Rotisería-Los-ComeNunca.gif);
+        background-image: url(../../media/images/logo-gif/Rotisería-Los-ComeNunca.gif);
         background-size:cover;
         background-repeat:no-repeat;
         background-position:center;
@@ -132,7 +132,7 @@
         flex-wrap: wrap;
         row-gap:initial;
         column-gap:inherit;
-        background-image: url(..//images/Rotisería-Los-ComeNunca.gif);
+        background-image: url(../../media/images/logo-gif/Rotisería-Los-ComeNunca.gif);
         background-size:cover;
         background-repeat: no-repeat;
         background-position:center;
@@ -198,7 +198,7 @@
         flex-wrap: wrap;
         row-gap:initial;
         column-gap:inherit;
-        background-image: url(..//images/Rotisería-Los-ComeNunca.gif);
+        background-image: url(../../media/images/logo-gif/Rotisería-Los-ComeNunca.gif);
         background-size:cover;
         background-repeat: no-repeat;
         background-position:center;
@@ -226,7 +226,7 @@
         display: grid;
         box-sizing:border-box;
         box-sizing:border-box;
-        background-image: url(../images/hamburguesa-queso-perfecta-verduras-sobre-mesa-madera-fondo-negro-ai-generativo.jpg);
+        background-image: url(../../media/images/fondo-pagina/hamburguesa-queso-perfecta-verduras-sobre-mesa-madera-fondo-negro-ai-generativo.jpg);
         background-size:cover;
         background-repeat: no-repeat;
     }
@@ -263,7 +263,7 @@
         flex-wrap: wrap;
         row-gap:initial;
         column-gap:inherit;
-        background-image: url(..//images/Rotisería-Los-ComeNunca.gif);
+        background-image: url(../../media/images/logo-gif/Rotisería-Los-ComeNunca.gif);
         background-size:cover;
         background-repeat: no-repeat;
         background-position:center;
