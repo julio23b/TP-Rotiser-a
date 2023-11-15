@@ -1,9 +1,3 @@
-@import url(/assets/css/header/style.css);
-@import url(/assets/css/main/style.css);
-@import url(/assets/css/footer/style1.css);
-@import url(/assets/css/grid/style1.css);
-@import url(/assets/css/style-quienes-somos.css);
-
 *, html {
     margin: 0;
     padding: 0;

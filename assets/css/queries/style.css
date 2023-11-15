@@ -225,24 +225,23 @@
         width: 100svw;
         display: grid;
         box-sizing:border-box;
-        box-sizing:border-box;
         background-image: url(../../media/images/fondo-pagina/hamburguesa-queso-perfecta-verduras-sobre-mesa-madera-fondo-negro-ai-generativo.jpg);
         background-size:cover;
         background-repeat: no-repeat;
     }
     
     .head{
+        height: 30svh;
         display: grid;
         align-content: center;
         justify-content: center;
         grid-template-columns: 15% 85%;
         grid-template-rows: 1fr;
         grid-template-areas: "Logo Select";
-        margin: 10px;
     }
     
     .Principal{
-
+        height: 50svh;
         display: grid;
         grid-template-columns: 80% 20%;
         grid-template-rows: 1fr;

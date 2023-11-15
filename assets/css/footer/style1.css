@@ -12,8 +12,11 @@
     margin: 10px;
     font-weight: bolder;
     font-size: 1.1rem;
-    opacity: 0.7;
+    border: 2px solid transparent;
+    border-radius: 50px;
+    opacity: 0.9;
 }
+
 .Nov{
     display: flex;
     align-self:center;
@@ -22,13 +25,6 @@
     flex-wrap: wrap;
     row-gap:inherit;
     column-gap: inherit;
-}
-
-
-.foot{
-    border: 2px solid transparent;
-    border-radius: 50px;
-    opacity: 0.9;
 }
 
 .foot:hover{
@@ -44,34 +40,43 @@
     color: white;
 }
 
-.icon-1:hover{
+.foot:hover .icon-1{
 
-    color: white;
+    color:blue;
+    
 }
 
-.icon-2:hover{
+.foot:hover .icon-2{
 
-    color: white;
+    color:blue;
+    
 }
 
-.icon-3:hover{
+.foot:hover .icon-3{
 
-    color: white;
+    color:blue;
+    
 }
 
-.icon-4:hover{
+.foot:hover .icon-4{
 
-    color: white;
+    color:blue;
+    
 }
+
 .icon-1{
     font-size: 50px;
+    color: transparent;
 }
 .icon-2{
     font-size: 50px;
+    color: transparent;
 }
 .icon-3{
     font-size: 50px;
+    color: transparent;
 }
 .icon-4{
     font-size: 50px;
+    color: transparent;
 }
