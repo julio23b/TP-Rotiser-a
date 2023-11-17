@@ -1,9 +1,9 @@
 /* Estilos de las estructuras de pagina */
-@import url(/assets/css/header/style.css);
-@import url(/assets/css/main/style.css);
-@import url(/assets/css/footer/style1.css);
-@import url(/assets/css/grid/style1.css);
-@import url(/assets/css/queries/style.css);
+@import url(header/style-header.css);
+@import url(main/style-main.css);
+@import url(footer/style-footer.css);
+@import url(grid/style-grid.css);
+@import url(queries/style-queries.css);
 
 
 *{
