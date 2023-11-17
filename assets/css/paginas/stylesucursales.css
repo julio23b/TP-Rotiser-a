@@ -17,7 +17,7 @@
     
     
     body {
-         background-image: url(../assets/media/images/hamburguer.jpg);
+         background-image: url(../../assets/media/images/hamburguer.jpg);
          background-size:cover;
          width: 100%;
          }
