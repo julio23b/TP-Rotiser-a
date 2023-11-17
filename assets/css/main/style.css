@@ -1,8 +1,8 @@
 .Principal {
     opacity: 0.7;
     display: flex;
-    padding: 5px;
-    margin: 5px;
+    padding: 10px;
+    margin: 10px;
 }
 
 .first-1 h1{
@@ -15,7 +15,7 @@
     padding: 5px;
     text-align: justify;
     font-weight: bolder;
-    font-size: 1.5rem;
+    font-size: 1.4rem;
 }
 
 .first-1 ul{
@@ -35,7 +35,7 @@
 
 .first-1{
     border: 2px solid transparent;
-    border-radius: 50px;
+    border-radius: 30px;
     background-color: transparent;
     color: transparent;
 }
@@ -44,7 +44,7 @@
     padding: 10px;
     margin-right: 10px;
     border: 2px solid transparent;
-    border-radius: 55px;
+    border-radius: 30px;
     background-color: transparent;
     color: transparent;
 }
