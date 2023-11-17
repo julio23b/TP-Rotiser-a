@@ -17,9 +17,8 @@
     
     
     body {
-         background-image: url(/assets/media/images/fondo-pagina/hamburguesa-queso-perfecta-verduras-sobre-mesa-madera-fondo-negro-ai-generativo.jpg);
-         background-size:250%;
-         background-position: center;
+         background-image: url(../../media/images/hamburguer.jpg);
+         background-size:cover;
          width: 100%;
          }
     
