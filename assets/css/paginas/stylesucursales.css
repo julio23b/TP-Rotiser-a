@@ -16,7 +16,7 @@
     /*main elements of the page*/
     
     
-    body {background-image: url(/assets/media/images/hamburguer.jpg);
+    body {background-image: url(../assets/media/images/hamburguer.jpg);
          background-size: cover;
          width: 100%;
          }
